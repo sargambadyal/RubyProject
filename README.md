@@ -1,4 +1,1 @@
-RubyProject
-===========
-
-My ruby codes
+# Starting Points
